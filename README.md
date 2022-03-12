@@ -16,4 +16,4 @@ I made the Login Page using HTML and CSS. Also I contributed in making the Quiz 
 # My Experience being a Mentee in UAceIT Mentorship Program 2.0
 It was a great experience being a part of this program and not to mention being in such a supportive team where we can freely exchange our ideas. The mentor was very helpful and guided us whenever we got stuck. 
 <br/>
-Learnt a lot in this 6-weeks time period. This opportunity not only helped me to buid my technical skills but also to network with cooperative and hard-working teammates.
+Learnt a lot in this 6-weeks time period. This opportunity not only helped me to build my technical skills but also to network with cooperative and hard-working teammates.
